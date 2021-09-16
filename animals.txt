@@ -1,5 +1,5 @@
 lion
 tiger
-leopard
+leopard red
 turtle green
 
